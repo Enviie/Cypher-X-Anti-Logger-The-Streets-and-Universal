@@ -1,0 +1,5 @@
+if game.PlaceId == 455366377 or game.PlaceId == 4669040 then
+     loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Enviie/Cypher-X-Anti-Logger-The-Streets-and-Universal/main/Cypher%20X%20Encode%20Audio%20The%20Streets"))("Enviie Soo Hot!")
+else
+     loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Enviie/Cypher-X-Anti-Logger-The-Streets-and-Universal/main/Cypher%20X%20Encode%20Audio%20Universal"))("Enviie Soo Hot!")
+end
